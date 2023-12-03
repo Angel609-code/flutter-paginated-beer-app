@@ -25,7 +25,7 @@ Make sure you have the following installed before running the application:
 2. Navigate to the project directory:
 
     ```bash
-    cd flutter-beer-app
+    cd flutter-paginated-beer-app
     ```
 
 3. Install dependencies:
