@@ -19,7 +19,7 @@ Make sure you have the following installed before running the application:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/flutter-beer-app.git
+    git clone https://github.com/Angel609-code/flutter-paginated-beer-app
     ```
 
 2. Navigate to the project directory:
